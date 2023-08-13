@@ -707,7 +707,10 @@ class EDAutopilot:
     #
     def sun_avoid(self, scr_reg):
         logger.debug('align= avoid sun')
-        
+
+        # T9s will hit many stars, maybe lowering throttle here
+        self.keys.send('SetSpeed50')
+
         sleep(0.5)
 
         # close to core the 'sky' is very bright with close stars, if we are pitch due to a non-scoopable star
