@@ -1,4 +1,4 @@
-Slight modifications have been made in this fork to resolve waypoint inconsistencies with my Odyssey client. Input routines at the galaxy and system maps have been altered.
+Slight modifications have been made in this fork to resolve waypoint inconsistencies with my Odyssey client. Input routines at the galaxy and system maps have been altered. I hope to improve avoidance routines and general consistency when waypointing with larger ships.
 
 See [ChangeLog](/ChangeLog.md) for latest updates<br>
 Join discord if need support or wish to provide inputs on new features:  https://discord.gg/HCgkfSc
